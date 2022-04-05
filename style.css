@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.header-color{
+    color: olivedrab;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 15%;
+}
+.half-width img{
+   width: 80%;
+}
+.left-border{
+    border-left: 5px solid yellowgreen;
+}
+.box-image{
+    width: 25%;
+    border: 1px ;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.misson-img{
+    width: 35%;
+}
